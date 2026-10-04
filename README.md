@@ -7,5 +7,9 @@ uv init
 uv sync
 uv add openai
 uv add python-dotenv
+uv add langchain_community
+uv add pypdf
+uv add langchain_openai
+uv add chromadb
 
 dotenv is for loading env variable from .env files.
